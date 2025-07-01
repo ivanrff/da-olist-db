@@ -23,7 +23,7 @@ Here's the dashboard:
 
 ![dashboard/olist.png](dashboard/olist.png)
 
-So if we go back to the initial questions...
+## Questions
 
 - **What is the total revenue?** The total revenue from the year 2017 is ~7 million BRL.
 
@@ -35,8 +35,8 @@ So if we go back to the initial questions...
 
 - **What are the top-selling product categories?** The top 3 selling product categories are bed_bath_table, furniture_decor and sports_leisure.
 
-Let us review some data from Black Friday.
+## Black Friday
 
 - **Total Revenue:** 179K, 2.47% of total revenue from 2017.
 - **Amount of Orders:** 1176, 2.61% of total revenue from 2017.
-- **Increase in daily orders:** 941.3%. That means that one particular day produced roughly more than 9 days in average.
+- **Increase in daily orders:** 941.3%. That means that one particular day produced roughly more than 9 average days.
